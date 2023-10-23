@@ -17,7 +17,7 @@ header {
 }
 
 nav {
-    background-color: #333;
+    background-color: #418c4f;
     text-align: center;
 }
 
@@ -52,13 +52,16 @@ nav a {
 }
 
 .product img {
-    max-width: 100%;
+    max-width: 5%;
     height: auto;
 }
-
+.product img {
+    max-width: 90%;
+    height: auto;
+}
 .product h2 {
     color: #333;
-    font-size: 20px;
+    font-size: 40px;
 }
 
 .product p {
@@ -81,8 +84,8 @@ button {
 }
 
 footer {
-    background-color: #333;
-    color: #fff;
+    background-color: #ccc;
+    color: #070505;
     text-align: center;
     padding: 10px;
 }
